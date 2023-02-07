@@ -173,6 +173,7 @@ header h2{
     display: grid;
     grid-template-columns: auto auto auto auto;
     text-align: center;
+    overflow: hidden;
     margin: 0 auto;
 }
 .bottom_inner{
@@ -204,7 +205,7 @@ header h2{
     padding: 0 14px;
 }
 .inner_content2{
-    padding: 0 0 68px 0;
+    padding: 0 0 50px 0;
     margin: 0 auto 0 5px;
 }
 .inner_content3{
